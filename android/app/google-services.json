@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "831386401105",
+    "project_id": "lets-move-c3f13",
+    "storage_bucket": "lets-move-c3f13.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831386401105:android:c0dccf33ab52529ce5bb70",
+        "android_client_info": {
+          "package_name": "com.lightrod.letsmove"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVcGXS7rIKaZypjF5FdUr1177ak7Ub3oQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
